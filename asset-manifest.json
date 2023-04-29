@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://extraangel.github.io/csb-38z4kk/static/css/main.623a0b91.css",
+    "main.js": "https://extraangel.github.io/csb-38z4kk/static/js/main.301bb55a.js",
+    "index.html": "https://extraangel.github.io/csb-38z4kk/index.html",
+    "main.623a0b91.css.map": "https://extraangel.github.io/csb-38z4kk/static/css/main.623a0b91.css.map",
+    "main.301bb55a.js.map": "https://extraangel.github.io/csb-38z4kk/static/js/main.301bb55a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.623a0b91.css",
+    "static/js/main.301bb55a.js"
+  ]
+}
